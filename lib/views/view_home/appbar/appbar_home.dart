@@ -11,7 +11,7 @@ class AppBar_home extends StatelessWidget {
           Container(
             margin: new EdgeInsets.only(right: 50),
             child: Text(
-              "App Saya",
+              "WangOn",
               textAlign: TextAlign.center,
               style: TextStyle(
                 color: Colors.white,

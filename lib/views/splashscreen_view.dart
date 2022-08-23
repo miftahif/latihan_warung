@@ -4,6 +4,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
+import 'package:latihan_warung/views/bagian_login/mainan.dart';
 import 'package:latihan_warung/views/home.dart';
 
 //import 'package:bootcamp_tes2/home.dart';
@@ -29,7 +30,8 @@ class _SplashScreenPageState extends State<SplashScreenPage> {
     return Timer(durasiSplash, () {
       //pindah ke halaman home
       Navigator.of(context).pushReplacement(MaterialPageRoute(builder: (_) {
-        return LatihanWarung();
+        return Mainan();
+        //return LatihanWarung();
       }));
     });
   }
