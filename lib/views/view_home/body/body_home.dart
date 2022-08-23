@@ -12,6 +12,11 @@ class BodyHome extends StatelessWidget {
         "green",
         "red",
         "black",
+        "amber",
+        "yellow",
+        "green",
+        "red",
+        "black",
       ]
     },
     {
@@ -23,12 +28,22 @@ class BodyHome extends StatelessWidget {
         "green",
         "red",
         "black",
+        "amber",
+        "yellow",
+        "green",
+        "red",
+        "black",
       ]
     },
     {
       "Nama": "Miftahul",
       "Umur": 17,
       "favColor": [
+        "amber",
+        "yellow",
+        "green",
+        "red",
+        "black",
         "amber",
         "yellow",
         "green",

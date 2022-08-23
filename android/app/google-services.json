@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "76479788336",
+    "project_id": "fireflutter-49b6a",
+    "storage_bucket": "fireflutter-49b6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76479788336:android:4bb5d6f96608de533384f5",
+        "android_client_info": {
+          "package_name": "com.example.latihan_warung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76479788336-4hr35tb0qturjgmhkrvfmed8vpp8f89e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtOTwLEVYWR_TnA1sPHGt0dpOlmCnjC24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76479788336-4hr35tb0qturjgmhkrvfmed8vpp8f89e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
